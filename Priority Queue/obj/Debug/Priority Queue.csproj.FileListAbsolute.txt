@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\obj\Debug\Priority Queue.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\obj\Debug\Priority Queue.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\bin\Debug\Priority Queue.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\bin\Debug\Priority Queue.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\bin\Debug\Priority Queue.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\obj\Debug\Priority Queue.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\obj\Debug\Priority Queue.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Priority Queue\obj\Debug\Priority Queue.exe.config

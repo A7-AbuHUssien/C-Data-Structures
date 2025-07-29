@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\bin\Debug\Remove.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\bin\Debug\Remove.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\bin\Debug\Remove.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\obj\Debug\Remove.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\obj\Debug\Remove.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\obj\Debug\Remove.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\obj\Debug\Remove.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Remove\obj\Debug\Remove.exe.config

@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Queue\bin\Debug\Queue.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Queue\bin\Debug\Queue.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Queue\bin\Debug\Queue.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Queue\obj\Debug\Queue.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Queue\obj\Debug\Queue.pdb

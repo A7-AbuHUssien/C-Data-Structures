@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\bin\Debug\Observable Collection.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\bin\Debug\Observable Collection.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\bin\Debug\Observable Collection.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\obj\Debug\Observable Collection.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\obj\Debug\Observable Collection.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\obj\Debug\Observable Collection.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\obj\Debug\Observable Collection.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Observable Collection\obj\Debug\Observable Collection.exe.config

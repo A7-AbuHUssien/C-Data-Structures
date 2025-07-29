@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Preorder Tree Traversal\bin\Debug\Preorder Tree Traversal.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Preorder Tree Traversal\bin\Debug\Preorder Tree Traversal.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Preorder Tree Traversal\bin\Debug\Preorder Tree Traversal.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Preorder Tree Traversal\obj\Debug\Preorder Tree Traversal.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Preorder Tree Traversal\obj\Debug\Preorder Tree Traversal.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Preorder Tree Traversal\obj\Debug\Preorder Tree Traversal.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Preorder Tree Traversal\obj\Debug\Preorder Tree Traversal.pdb
