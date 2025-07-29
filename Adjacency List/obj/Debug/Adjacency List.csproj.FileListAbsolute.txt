@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\bin\Debug\Adjacency List.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\bin\Debug\Adjacency List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\bin\Debug\Adjacency List.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\obj\Debug\Adjacency List.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\obj\Debug\Adjacency List.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\obj\Debug\Adjacency List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\obj\Debug\Adjacency List.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency List\obj\Debug\Adjacency List.exe.config
