@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\bin\Debug\Sorting a List in C# Using Various Methods.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\bin\Debug\Sorting a List in C# Using Various Methods.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\bin\Debug\Sorting a List in C# Using Various Methods.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorting a List in C# Using Various Methods\obj\Debug\Sorting a List in C# Using Various Methods.exe.config

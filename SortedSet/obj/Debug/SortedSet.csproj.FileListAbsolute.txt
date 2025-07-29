@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\bin\Debug\SortedSet.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\bin\Debug\SortedSet.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\bin\Debug\SortedSet.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\obj\Debug\SortedSet.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\obj\Debug\SortedSet.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\SortedSet\obj\Debug\SortedSet.exe.config

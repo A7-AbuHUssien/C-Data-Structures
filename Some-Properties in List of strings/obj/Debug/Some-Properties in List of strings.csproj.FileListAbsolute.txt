@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\bin\Debug\Some-Properties in List of strings.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\bin\Debug\Some-Properties in List of strings.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\bin\Debug\Some-Properties in List of strings.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\obj\Debug\Some-Properties in List of strings.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\obj\Debug\Some-Properties in List of strings.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\obj\Debug\Some-Properties in List of strings.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\obj\Debug\Some-Properties in List of strings.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Some-Properties in List of strings\obj\Debug\Some-Properties in List of strings.exe.config

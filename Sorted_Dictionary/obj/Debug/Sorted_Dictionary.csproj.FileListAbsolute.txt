@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\bin\Debug\Sorted_Dictionary.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\bin\Debug\Sorted_Dictionary.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\bin\Debug\Sorted_Dictionary.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\obj\Debug\Sorted_Dictionary.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\obj\Debug\Sorted_Dictionary.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\obj\Debug\Sorted_Dictionary.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\obj\Debug\Sorted_Dictionary.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Sorted_Dictionary\obj\Debug\Sorted_Dictionary.exe.config
