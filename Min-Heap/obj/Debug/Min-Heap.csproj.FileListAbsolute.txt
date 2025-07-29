@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\bin\Debug\Min-Heap.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\bin\Debug\Min-Heap.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\bin\Debug\Min-Heap.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\obj\Debug\Min-Heap.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\obj\Debug\Min-Heap.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\obj\Debug\Min-Heap.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\obj\Debug\Min-Heap.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Min-Heap\obj\Debug\Min-Heap.exe.config

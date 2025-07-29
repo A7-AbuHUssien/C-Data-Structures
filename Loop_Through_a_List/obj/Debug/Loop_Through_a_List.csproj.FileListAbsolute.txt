@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Loop_Through_a_List\bin\Debug\Loop_Through_a_List.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Loop_Through_a_List\bin\Debug\Loop_Through_a_List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Loop_Through_a_List\bin\Debug\Loop_Through_a_List.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Loop_Through_a_List\obj\Debug\Loop_Through_a_List.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Loop_Through_a_List\obj\Debug\Loop_Through_a_List.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Loop_Through_a_List\obj\Debug\Loop_Through_a_List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Loop_Through_a_List\obj\Debug\Loop_Through_a_List.pdb

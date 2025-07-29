@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\bin\Debug\LINQ with SortedList.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\bin\Debug\LINQ with SortedList.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\bin\Debug\LINQ with SortedList.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\obj\Debug\LINQ with SortedList.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\obj\Debug\LINQ with SortedList.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\obj\Debug\LINQ with SortedList.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\obj\Debug\LINQ with SortedList.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with SortedList\obj\Debug\LINQ with SortedList.exe.config

@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\bin\Debug\List.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\bin\Debug\List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\bin\Debug\List.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\obj\Debug\List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\obj\Debug\List.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\List\obj\Debug\List.exe.config

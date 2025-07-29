@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Max-Heap\bin\Debug\Max-Heap.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Max-Heap\bin\Debug\Max-Heap.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Max-Heap\bin\Debug\Max-Heap.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Max-Heap\obj\Debug\Max-Heap.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Max-Heap\obj\Debug\Max-Heap.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Max-Heap\obj\Debug\Max-Heap.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Max-Heap\obj\Debug\Max-Heap.pdb
