@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\bin\Debug\Adjacency Matrix.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\bin\Debug\Adjacency Matrix.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\bin\Debug\Adjacency Matrix.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\obj\Debug\Adjacency Matrix.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\obj\Debug\Adjacency Matrix.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\obj\Debug\Adjacency Matrix.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\obj\Debug\Adjacency Matrix.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Adjacency Matrix\obj\Debug\Adjacency Matrix.exe.config
