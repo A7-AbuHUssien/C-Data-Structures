@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\GeneralTree\bin\Debug\GeneralTree.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\GeneralTree\bin\Debug\GeneralTree.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\GeneralTree\bin\Debug\GeneralTree.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\GeneralTree\obj\Debug\GeneralTree.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\GeneralTree\obj\Debug\GeneralTree.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\GeneralTree\obj\Debug\GeneralTree.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\GeneralTree\obj\Debug\GeneralTree.pdb

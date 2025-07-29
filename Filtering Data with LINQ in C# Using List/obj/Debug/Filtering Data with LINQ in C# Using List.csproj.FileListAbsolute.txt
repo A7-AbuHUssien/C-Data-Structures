@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\bin\Debug\Filtering Data with LINQ in C# Using List.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\bin\Debug\Filtering Data with LINQ in C# Using List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\bin\Debug\Filtering Data with LINQ in C# Using List.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\obj\Debug\Filtering Data with LINQ in C# Using List.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\obj\Debug\Filtering Data with LINQ in C# Using List.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\obj\Debug\Filtering Data with LINQ in C# Using List.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\obj\Debug\Filtering Data with LINQ in C# Using List.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Filtering Data with LINQ in C# Using List\obj\Debug\Filtering Data with LINQ in C# Using List.exe.config

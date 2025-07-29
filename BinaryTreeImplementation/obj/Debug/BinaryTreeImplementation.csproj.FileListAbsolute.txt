@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\bin\Debug\BinaryTreeImplementation.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\bin\Debug\BinaryTreeImplementation.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\bin\Debug\BinaryTreeImplementation.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\obj\Debug\BinaryTreeImplementation.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\obj\Debug\BinaryTreeImplementation.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\obj\Debug\BinaryTreeImplementation.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\obj\Debug\BinaryTreeImplementation.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\BinaryTreeImplementation\obj\Debug\BinaryTreeImplementation.exe.config

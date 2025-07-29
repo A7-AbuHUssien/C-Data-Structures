@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\bin\Debug\Comparing Sets.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\bin\Debug\Comparing Sets.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\bin\Debug\Comparing Sets.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\obj\Debug\Comparing Sets.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\obj\Debug\Comparing Sets.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\obj\Debug\Comparing Sets.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\obj\Debug\Comparing Sets.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\Comparing Sets\obj\Debug\Comparing Sets.exe.config
