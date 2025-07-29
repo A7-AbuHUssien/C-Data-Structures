@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with Dictionaries\bin\Debug\LINQ with Dictionaries.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with Dictionaries\bin\Debug\LINQ with Dictionaries.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with Dictionaries\bin\Debug\LINQ with Dictionaries.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with Dictionaries\obj\Debug\LINQ with Dictionaries.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with Dictionaries\obj\Debug\LINQ with Dictionaries.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with Dictionaries\obj\Debug\LINQ with Dictionaries.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\LINQ with Dictionaries\obj\Debug\LINQ with Dictionaries.pdb

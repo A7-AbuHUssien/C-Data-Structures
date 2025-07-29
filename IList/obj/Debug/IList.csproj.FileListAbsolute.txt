@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IList\bin\Debug\IList.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IList\bin\Debug\IList.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IList\bin\Debug\IList.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IList\obj\Debug\IList.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IList\obj\Debug\IList.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IList\obj\Debug\IList.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IList\obj\Debug\IList.pdb

@@ -1,0 +1,7 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IDictionary\bin\Debug\IDictionary.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IDictionary\bin\Debug\IDictionary.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IDictionary\bin\Debug\IDictionary.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IDictionary\obj\Debug\IDictionary.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IDictionary\obj\Debug\IDictionary.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IDictionary\obj\Debug\IDictionary.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\IDictionary\obj\Debug\IDictionary.pdb
