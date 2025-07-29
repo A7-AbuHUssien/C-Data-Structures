@@ -1,0 +1,8 @@
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\bin\Debug\stack.exe.config
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\bin\Debug\stack.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\bin\Debug\stack.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\obj\Debug\stack.exe
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\obj\Debug\stack.pdb
+D:\ProJect\Fundamental-Stage\Trying\C#-DataStructures\stack\obj\Debug\stack.exe.config
